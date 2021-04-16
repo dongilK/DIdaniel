@@ -1,8 +1,10 @@
 - 👋 안녕하세요. 김동일(KIM DONG IL) 입니다.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
+- 👀 I’m interested in MERN developer and interactive web design
+- 
+- 🌱 I’m currently learning Next.js, Typescript
+- 
+- 📫 You can reach me this E-mail [ cappu159@gmail.com ]
 
 <!---
 DIdaniel/DIdaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
