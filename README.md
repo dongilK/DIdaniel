@@ -1,9 +1,9 @@
 - 👋 안녕하세요. 김동일(KIM DONG IL) 입니다.
-- 
+
 - 👀 I’m interested in MERN developer and interactive web design
-- 
+
 - 🌱 I’m currently learning Next.js, Typescript
-- 
+
 - 📫 You can reach me this E-mail [ cappu159@gmail.com ]
 
 <!---
