@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in MERN developer and interactive web design
 
-- 🌱 I’m currently learning Next.js, Typescript
+- 🌱 I’m currently learning Next.js, Typescript.
+     And trying to use those skills in my project.
 
 - 📫 You can reach me this E-mail [ cappu159@gmail.com ]
 
