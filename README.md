@@ -1,6 +1,6 @@
 - 👋 안녕하세요. 김동일(KIM DONG IL) 입니다.
 
-- 👀 I’m interested in MERN developer and interactive web design.
+- 👀 I’m interested in MERN developer and interactive web design. <br />
      And trying to use those skills in my project.
 
 - 🌱 I’m currently learning React, Javascript(ES6), HTML5, CSS3.
