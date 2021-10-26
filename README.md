@@ -1,24 +1,22 @@
 ### Hello, I'm KIM DONG IL! - aka [Daniel][website] 👋
 
-[![Website](https://www.notion.so/12c37c1f0f4d4a0888820e3eaa8b735c)](https://DONG-IL.com)
-
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Frontend Engineer!
 
 - 🔭 I'm leaning JAVASCRIPT, HTML, CSS, REACT.JS!
 - 🌱 I’m currently learning everything to be a full-stack developer!🤣
 - 👯 I’m looking for a good partner for develop myself
 - 🥅 2021 Goals: Grow together as a programmer 🥰
-- ⚡ Fun fact: I love watching movie and I have a cat name Patrick!🐈
+- ⚡ Fun fact: I love watching movie, doing work-out and I have a cat name Patrick!🐈
 
 ### Connect with me:
 
-[<img align="left" alt="notion" width="22px" color="orange" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="notion" width="24px" color="orange" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 
-[<img align="left" alt="DIdaniel | LinkedIn" width="22px" color="orange" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DIdaniel | Instagram" width="22px" color="orange" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DIdaniel | LinkedIn" width="24px" color="orange" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DIdaniel | Instagram" width="24px" color="orange" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
