@@ -2,10 +2,10 @@
 
 ## I'm a Frontend Engineer!
 
-- 🔭 I'm leaning JAVASCRIPT, HTML, CSS, REACT.JS!
+- 🔭 I'm leaning JAVASCRIPT, HTML, CSS, React.js, Next.js!
 - 🌱 I’m currently learning everything to be a full-stack developer!🤣
 - 👯 I’m looking for a good partner for develop myself
-- 🥅 2021 Goals: Grow together as a programmer 🥰
+- 🥅 2022 Goals: Grow together as a programmer 🥰
 - ⚡ Fun fact: I love watching movie, doing work-out and I have a cat name Patrick!🐈
 
 ### Connect with me:
